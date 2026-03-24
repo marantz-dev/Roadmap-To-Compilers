@@ -22,6 +22,8 @@ The following books are to be read in the specified order:
 2. [Keith Cooper, Linda Torczon - Engineering a Compiler](http://www.r-5.org/files/books/computers/compilers/writing/Keith_Cooper_Linda_Torczon-Engineering_a_Compiler-EN.pdf) — A comprehensive, modern book on compiler design and implementation.
 3. [Muchnick - Advanced Compiler Design and Implementation](https://github.com/rambhawan/Computer-Compiler-Lang/blob/master/Advanced%20Compiler%20Design%20and%20Implementation.pdf) — An advanced book focused on optimization techniques.
 
+note: links are not offical so they are not guaranteed to work...
+
 The following books are to be read in the specified order
 
 1. [Robert Nystrom - Crafting Interpreters](https://craftinginterpreters.com/)
