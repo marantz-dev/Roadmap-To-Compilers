@@ -4,6 +4,7 @@ Welcome!
 In this document we try to delineate a clear roadmap for people and/or student who want to get into what it gets to engeneer and build a Compiler Software.
 
 ### Prerequisites
+
 This guide is thought for people who already have a generale understanding of computer science 101 concepts like:
 
 - **Programming** using Generale puprpose low level languages (C, C++, Rust)
@@ -14,15 +15,22 @@ This guide is thought for people who already have a generale understanding of co
 ## Resources
 
 ### Books
-The following books are to be read in the specified order
-1. [Robert Nystrom - Crafting Interpreters](https://craftinginterpreters.com/)
-3. [Keith Cooper, Linda Torczon - Engineering a Compiler](http://www.r-5.org/files/books/computers/compilers/writing/Keith_Cooper_Linda_Torczon-Engineering_a_Compiler-EN.pdf)
-4. [Various Programming Books](https://github.com/exoad/booksbox)
-5. [Muchnick - Advanced Compiler Design and Implementation](https://github.com/rambhawan/Computer-Compiler-Lang/blob/master/Advanced%20Compiler%20Design%20and%20Implementation.pdf) 
 
-other 
+The following books are to be read in the specified order
+
+1. [Robert Nystrom - Crafting Interpreters](https://craftinginterpreters.com/)
+2. [Keith Cooper, Linda Torczon - Engineering a Compiler](http://www.r-5.org/files/books/computers/compilers/writing/Keith_Cooper_Linda_Torczon-Engineering_a_Compiler-EN.pdf)
+3. [Various Programming Books](https://github.com/exoad/booksbox)
+4. [Muchnick - Advanced Compiler Design and Implementation](https://github.com/rambhawan/Computer-Compiler-Lang/blob/master/Advanced%20Compiler%20Design%20and%20Implementation.pdf)
+
+other
 
 - [Cormen - Introduction to Algorithms](https://github.com/exoad/booksbox/blob/main/Introduction%20to%20Algorithms%20-%20Third%20Edition.pdf)
+
+### Free Online-Courses
+
+- [Advanced Compilers: The Self-Guided Online Course (Conrell)](https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/)
+  - [Lectures](https://www.cs.cornell.edu/courses/cs4120/2026sp/notes/)
 
 ### YouTube
 
