@@ -24,14 +24,7 @@ The following books are to be read in the specified order:
 
 note: links are not offical so they are not guaranteed to work...
 
-The following books are to be read in the specified order
-
-1. [Robert Nystrom - Crafting Interpreters](https://craftinginterpreters.com/)
-2. [Keith Cooper, Linda Torczon - Engineering a Compiler](http://www.r-5.org/files/books/computers/compilers/writing/Keith_Cooper_Linda_Torczon-Engineering_a_Compiler-EN.pdf)
-3. [Various Programming Books](https://github.com/exoad/booksbox)
-4. [Muchnick - Advanced Compiler Design and Implementation](https://github.com/rambhawan/Computer-Compiler-Lang/blob/master/Advanced%20Compiler%20Design%20and%20Implementation.pdf)
-
-other
+#### other
 
 - [Cormen - Introduction to Algorithms](https://github.com/exoad/booksbox/blob/main/Introduction%20to%20Algorithms%20-%20Third%20Edition.pdf)
 - [Aho, Sethi, Ullman - Compilers: Principles, Techniques, and Tools](https://dpvipracollege.ac.in/wp-content/uploads/2023/01/Alfred-V.-Aho-Monica-S.-Lam-Ravi-Sethi-Jeffrey-D.-Ullman-Compilers-Principles-Techniques-and-Tools-Pearson_Addison-Wesley-2007.pdf) — The classic "Dragon Book" on compiler construction. Although foundational, it is somewhat dated.
@@ -40,6 +33,7 @@ other
 
 - [Advanced Compilers: The Self-Guided Online Course (Conrell)](https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/)
   - [Lectures](https://www.cs.cornell.edu/courses/cs4120/2026sp/notes/)
+- [Building a Compiler Course](https://hy-compilers.github.io/spring-2026/)
 
 ### YouTube
 
